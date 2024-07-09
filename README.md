@@ -19,32 +19,23 @@ Order Management: Add items to cart, review orders, and complete transactions.
 Delivery Options: Choose delivery or pickup based on user preference.
 Rating and Reviews: Customers can rate restaurants and leave reviews based on their experiences.
 Admin Dashboard: Manage restaurants, menus, and user accounts from an administrative standpoint.
+
 Technologies Used
 Frontend: HTML/CSS, JavaScript (React.js)
 Backend: Node.js, Express.js, MongoDB (or another database solution)
 Authentication: JSON Web Tokens (JWT) for secure user authentication
 Payments: Integration with a payment gateway for processing transactions
 Maps Integration: Google Maps API for location-based services
-Deployment: Docker for containerization, deployed on platforms like AWS or Heroku
-Future Improvements
-Real-time Order Tracking: Implement live tracking of orders for customers and delivery personnel.
-Personalized Recommendations: Use machine learning to suggest restaurants based on user preferences and history.
-Social Media Integration: Allow users to share their orders or reviews on social media platforms.
-Accessibility Features: Ensure the platform is accessible to users with disabilities.
 How to Run
 Clone the repository: git clone https://github.com/yourusername/food-ordering-platform.git
 Install dependencies: npm install
-Set up environment variables for configuration (database connection, API keys, etc.)
-Start the backend server: npm start
-Start the frontend development server: npm run start:client
-Open your browser and navigate to http://localhost:3000
-Contributions
-Contributions are welcome! Feel free to fork the repository and submit pull requests for new features, improvements, or bug fixes.
+there are three folder inside this project  frontend ,backend ,admin 
+first of all we have to run the folder backend by command npm run serve 
+after that we have to run the admin folder by command npm run dev
+also for third folder frontend by command npm run dev 
+after tha we will see the link  of localhost in admin and fronted inside the powershell
+by click our project will run properly 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
 
 
 
