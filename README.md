@@ -1,9 +1,17 @@
-![Screenshot (20)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/34195c67-9e23-458a-b6c8-03c18536dea4)
-![Screenshot (19)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/10116314-5814-45c6-b3c5-de9dc8db844e)
-![Screenshot (18)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/d4a8aefe-9217-47a3-afb2-be71884dc702)
-![Screenshot (17)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/7b220f89-5088-41f4-a04d-74ff400054c8)
-![Screenshot (16)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/d4effefd-bb13-4486-832f-033b6741f2c6)
-![Screenshot (15)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/0c5614a2-df3c-4407-b726-02368c2f874b)
-![Screenshot (14)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/d5c82020-87e0-4296-8f41-eaee64036a8b)
-![Screenshot (13)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/1c6d60b1-2ead-43a1-8e77-edbb907e24cf)
-![Screenshot (12)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/b68bf867-8d99-47f0-a294-b76fc54620ba)
+![Screenshot (12)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/845039c7-c447-4547-a175-d85c0247422a)
+![Screenshot (13)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/6d0d10cf-6778-445d-b84c-1b0b3f150fce)
+![Screenshot (14)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/bce28486-73fa-45ea-a6c0-bcc728cd2c6e)
+![Screenshot (15)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/714132ea-f6f0-496a-9b1d-fee580621f6b)
+![Screenshot (16)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/7da9be82-28ee-4506-9829-3f9f731a3fef)
+![Screenshot (17)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/06e701a2-9d8f-4f68-a573-59a39bb67a6d)
+![Screenshot (18)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/fc388f67-33a4-4802-ad9b-2aa86463d637)
+![Screenshot (19)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/4b76ff9b-208b-45f3-a441-5eb069ad32d2)
+![Screenshot (20)](https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom/assets/97371684/147f0925-cc34-4dec-bbeb-df33717b26a7)
+
+
+
+
+
+
+
+
