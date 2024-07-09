@@ -27,7 +27,7 @@ Authentication: JSON Web Tokens (JWT) for secure user authentication
 Payments: Integration with a payment gateway for processing transactions
 Maps Integration: Google Maps API for location-based services
 How to Run
-Clone the repository: git clone https://github.com/yourusername/food-ordering-platform.git
+Clone the repository: git clone https://github.com/ShantanuSharma11/online-food-ordering-and-delibery-platfrom.git
 Install dependencies: npm install
 there are three folder inside this project  frontend ,backend ,admin 
 first of all we have to run the folder backend by command npm run serve 
